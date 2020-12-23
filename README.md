@@ -4,7 +4,7 @@ Model SEIR C19SI
 Prikazan je potek izračuna modela SEIR C19SI, ki je razvit na podlagi
 naslednje strukture:
 
-<img src="model_run_01_files/figure-markdown_github/SIR_model-1.png" width="500" style="display: block; margin: auto;" />
+<img src="SEIR_C19SI.svg" width="500" style="display: block; margin: auto;" />
 
 Model SEIR C19SI je deterministični oddelčni model, ki je bil razvit za
 primer spremljanja epidemije COVID19 v Sloveniji. Parametri modela so
