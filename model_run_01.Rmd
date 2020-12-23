@@ -29,7 +29,7 @@ library(magick)
 
 
 
-source("src/functions_model_V7_01.R")
+source("functions_model_V7_01.R")
 
 
 ```
